@@ -1,5 +1,51 @@
-# 测试文章1
+---
+description: 沈离离离离（LOFTER）同人文
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed dolor et libero pretium aliquet et ut risus. Proin id magna hendrerit, dictum nunc id, rhoncus arcu. Sed porttitor feugiat odio, non facilisis eros convallis vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque facilisis ac leo vitae rutrum. Proin a ligula eu erat ornare egestas rutrum sed justo. Duis ut leo nisi. Pellentesque blandit mi neque, id sodales risus blandit non. Nam vel libero feugiat, congue augue non, sagittis nisi. Nulla non mattis nunc. Nam sed nisi pellentesque, luctus ante vel, mollis libero. Maecenas ullamcorper molestie ultricies.
+# 初华家有完全隔音的地下室
 
-Vestibulum at pharetra elit, vel faucibus nulla. Vivamus dictum, ex tempor mattis ullamcorper, nisl nulla sodales nunc, vel suscipit libero ipsum non lorem. Pellentesque eu libero tellus. Quisque ipsum orci, tempus nec elementum vel, aliquam at neque. Donec vel purus leo. Mauris sagittis urna id nisl sodales, sit amet ullamcorper dui aliquam. Curabitur id ante a lectus porta congue. Cras non suscipit dolor, eget commodo nulla. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam, erat at ultricies dapibus, purus felis tristique diam, sit amet consequat odio felis vitae quam. Phasellus ultricies eros ac mollis consectetur. Curabitur egestas magna non pretium viverra. Sed pretium facilisis elit, at commodo tellus congue at. Donec tincidunt ullamcorper nisi sed dapibus. Nullam quis ex id purus venenatis vestibulum.
+{% hint style="warning" %}
+作者提示：主初祥，少量海希注意；有假药出没请注意；所有人大和解，但祥子也没有搬出初华家的理由不是吗
+
+编者注：此文于LOFTER手机端有标记为惊喜衍生剧场的彩蛋内容
+{% endhint %}
+
+### 信息卡
+
+{% stepper %}
+{% step %}
+### 发布平台
+
+LOFTER
+{% endstep %}
+
+{% step %}
+### 作者
+
+沈离离离离
+{% endstep %}
+
+{% step %}
+### 原文地址
+
+{% embed url="https://rapheciahikari.lofter.com/post/16af28_2bd9c7f02" %}
+【初祥】初华家有完全隔音的地下室
+{% endembed %}
+{% endstep %}
+{% endstepper %}
+
+***
+
+### 引言
+
+> 在某些帖子里她们五个人互相为对方的前任、现任、未来出轨对象以及爱而不见的白月光
+>
+> ——沈离离离离
+
+### 概要
+
+待补充
+
+### 评价
+
+待补充
