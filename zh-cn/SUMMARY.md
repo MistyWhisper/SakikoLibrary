@@ -1,12 +1,12 @@
 # Table of contents
 
 * [简介](README.md)
-* [编者序](bian-zhe-xu.md)
+* [编者序](preface.md)
 
 ## 初祥 <a href="#uika-saki" id="uika-saki"></a>
 
 * [A-F](uika-saki/a-f/README.md)
-  * [测试文章1](uika-saki/a-f/ce-shi-wen-zhang-1.md)
+  * [测试文章1](uika-saki/a-f/article1.md)
 * [G-L](uika-saki/g-l.md)
 * [M-R](uika-saki/m-r.md)
 * [S-X](uika-saki/s-x.md)
