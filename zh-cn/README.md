@@ -14,8 +14,5 @@ SakikoLibrary计划是一个致力于收集小祥所有优质同人作品地址�
 
 
 {% hint style="info" %}
-全站基于 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 协议
+全站基于 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 协议 [![CC BY-NC-ND 圖示](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cc_by-nc-nd_icon.svg/80px-Cc_by-nc-nd_icon.svg.png)](https://zh.wikipedia.org/wiki/File:Cc_by-nc-nd_icon.svg)
 {% endhint %}
-
-[![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
-
