@@ -3,6 +3,15 @@
 * [简介](README.md)
 * [编者序](preface.md)
 
+## 团推 <a href="#mujica" id="mujica"></a>
+
+* [A-F](mujica/a-f/README.md)
+  * [不要温和地退出那个乐队](mujica/a-f/bu-yao-wen-he-di-tui-chu-na-ge-yue-dui.md)
+* [G-L](mujica/g-l.md)
+* [M-R](mujica/m-r.md)
+* [S-X](mujica/s-x.md)
+* [Y-Z](mujica/y-z.md)
+
 ## 水仙 <a href="#saki2" id="saki2"></a>
 
 * [A-F](saki2/a-f.md)
