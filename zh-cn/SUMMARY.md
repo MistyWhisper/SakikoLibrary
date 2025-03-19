@@ -33,7 +33,8 @@
 
 * [A-F](mutsumi-saki/a-f.md)
 * [G-L](mutsumi-saki/g-l.md)
-* [M-R](mutsumi-saki/m-r.md)
+* [M-R](mutsumi-saki/m-r/README.md)
+  * [文章｜去水族馆](mutsumi-saki/m-r/wen-zhang-qu-shui-zu-guan.md)
 * [S-X](mutsumi-saki/s-x.md)
 * [Y-Z](mutsumi-saki/y-z.md)
 
