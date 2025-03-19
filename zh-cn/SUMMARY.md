@@ -6,7 +6,7 @@
 ## 团推 <a href="#mujica" id="mujica"></a>
 
 * [A-F](mujica/a-f/README.md)
-  * [不要温和地退出那个乐队](mujica/a-f/bu-yao-wen-he-di-tui-chu-na-ge-yue-dui.md)
+  * [视频｜不要温和地退出那个乐队](mujica/a-f/video1.md)
 * [G-L](mujica/g-l.md)
 * [M-R](mujica/m-r.md)
 * [S-X](mujica/s-x.md)
@@ -23,7 +23,7 @@
 ## 初祥 <a href="#uika-saki" id="uika-saki"></a>
 
 * [A-F](uika-saki/a-f/README.md)
-  * [初华家有完全隔音的地下室](uika-saki/a-f/article1.md)
+  * [文章｜初华家有完全隔音的地下室](uika-saki/a-f/article1.md)
 * [G-L](uika-saki/g-l.md)
 * [M-R](uika-saki/m-r.md)
 * [S-X](uika-saki/s-x.md)
