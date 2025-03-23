@@ -24,7 +24,7 @@
 
 * [A-F](uika-saki/a-f/README.md)
   * [文章｜初华家有完全隔音的地下室](uika-saki/a-f/article1.md)
-  * [文章 | 秽梦](uika-saki/a-f/wen-zhang-hui-meng.md)
+  * [文章 | 秽梦](uika-saki/a-f/article2.md)
 * [G-L](uika-saki/g-l.md)
 * [M-R](uika-saki/m-r.md)
 * [S-X](uika-saki/s-x.md)
