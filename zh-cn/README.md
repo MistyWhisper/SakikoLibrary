@@ -31,7 +31,7 @@ SakikoLibrary是一项依托社区力量持续发展的计划，其成长与完�
 
 #### 在线收集表
 
-{% embed url="https://docs.qq.com/sheet/DTER0VEpLSHNkY0N4" %}
+{% embed url="https://wj.qq.com/s2/19363333/0a6a/" %}
 
 ### 项目地址
 
