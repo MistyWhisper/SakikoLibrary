@@ -3,6 +3,10 @@
 * [简介](README.md)
 * [编者序](preface.md)
 
+## 推广 <a href="#promote" id="promote"></a>
+
+* [睦祥｜协同创作计划](promote/ms1.md)
+
 ## 团推 <a href="#mujica" id="mujica"></a>
 
 * [A-F](mujica/a-f/README.md)
