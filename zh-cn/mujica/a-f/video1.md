@@ -2,7 +2,7 @@
 description: 道格拉斯鱼（Bilibili）的视频
 ---
 
-# 不要温和地退出那个乐队
+# 视频｜不要温和地退出那个乐队
 
 {% hint style="info" %}
 灵感来源：&#x20;
@@ -21,6 +21,8 @@ description: 道格拉斯鱼（Bilibili）的视频
 ### 发布平台
 
 Bilibili
+
+{% embed url="https://www.bilibili.com/" %}
 {% endstep %}
 
 {% step %}
